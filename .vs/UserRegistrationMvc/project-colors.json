@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc8283d4-0078-4683-853f-0dd9a904156f": {
+      "ProjectGuid": "dc8283d4-0078-4683-853f-0dd9a904156f",
+      "DisplayName": "UserRegistrationMvc",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
